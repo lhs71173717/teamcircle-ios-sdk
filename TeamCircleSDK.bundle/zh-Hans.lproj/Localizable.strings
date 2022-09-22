@@ -1,0 +1,291 @@
+/* A single strings file, whose title is specified in your preferences schema. The strings files provide the localized content to display to the user for each of your preferences. */
+
+/* No comment provided by engineer. */
+"%d days ago" = "%d天前";
+
+/* No comment provided by engineer. */
+"%d hours ago" = "%d小时前";
+
+/* No comment provided by engineer. */
+"%d minutes ago" = "%d分钟前";
+
+/* No comment provided by engineer. */
+"%d months ago" = "%d个月前";
+
+/* No comment provided by engineer. */
+"%d seconds ago" = "%d秒钟前";
+
+/* No comment provided by engineer. */
+"%d weeks ago" = "%d星期前";
+
+/* No comment provided by engineer. */
+"%d years ago" = "%d年前";
+
+/* No comment provided by engineer. */
+"1 minute ago" = "1分钟前";
+
+/* No comment provided by engineer. */
+"1 hour ago" = "1小时前";
+
+/* No comment provided by engineer. */
+"Just now" = "刚刚";
+
+/* No comment provided by engineer. */
+"Last month" = "上个月";
+
+/* No comment provided by engineer. */
+"Last week" = "上星期";
+
+/* No comment provided by engineer. */
+"Last year" = "去年";
+
+/* No comment provided by engineer. */
+"Yesterday" = "昨天";
+
+/* You can add a space between the number and the characters. */
+"1 year ago" = "1年前";
+
+/* You can add a space between the number and the characters. */
+"1 month ago" = "1个月前";
+
+/* You can add a space between the number and the characters. */
+"1 week ago" = "1星期前";
+
+/* You can add a space between the number and the characters. */
+"1 day ago" = "1天前";
+
+/* No comment provided by engineer. */
+"This morning" = "今天上午";
+
+/* No comment provided by engineer. */
+"This afternoon" = "今天下午";
+
+/* No comment provided by engineer. */
+"Today" = "今天";
+
+/* No comment provided by engineer. */
+"This week" = "本周";
+
+/* No comment provided by engineer. */
+"This month" = "本月";
+
+/* No comment provided by engineer. */
+"This year" = "今年";
+
+"Buy Now" = "立即购买";
+"Store" = "商店";
+"Install:" = "安装:";
+"Edit Profile" = "编辑简介";
+"Cancel" = "取消";
+"Yes" = "确定";
+"Block User" = "屏蔽用户";
+"blockPrompt" = "是否要屏蔽此用户?";
+"Unblock User" = "取消屏蔽用户";
+"Unblock" = "取消屏蔽";
+"unblockPrompt" = "是否要取消屏蔽此用户?";
+"REGULAR" = "常规";
+"CONTEST" = "竞赛";
+"Share" = "分享";
+"Submit" = "提交";
+"Email" = "电子邮件";
+"Item" = "项";
+"Items" = "项";
+"Enteryour" = "输入您的";
+"info" = "信息";
+"usernameAlready" = "抱歉，用户名已被占用";
+"Posts" = "帖子";
+"Followers" = "关注我";
+"Following" = "关注中";
+"Notification" = "通知";
+"Follow" = "关注";
+"Followed" = "已关注";
+"Follow back" = "回关";
+"Share Photos and Videos" = "分享照片和视频";
+"SharePrompt" = "当您分享照片和视频时，\n它们将出现在您的个人资料中。";
+"Share your first photo or video" = "分享您的第一张照片或视频";
+"Username" = "用户名";
+"Bio" = "简介";
+"Change Profile Photo" = "更改个人资料照片";
+"Done" = "完成";
+"Next" = "下一步";
+"Recently Deleted" = "最近删除";
+"Recents" = "最近项目";
+"Camera Roll" = "相机胶卷";
+"Write something about it" = "写点什么吧";
+"Tag Product" = "标记产品";
+"Swipe to see more" = "滑动查看更多";
+"Tap to Add" = "点击
+添加";
+"Tap again to remove" = "再次点击
+删除";
+"Drag to move" = "拖拽
+移动";
+"Add Product Tag" = "添加产品标记";
+"Type name or item number" = "类型名称或项目编号";
+"Select Product" = "选择产品";
+"Processing..." = "正在处理...";
+"Processing" = "正在处理";
+"FOLLOWERS" = "粉丝";
+"FOLLOWING" = "关注";
+"Add a comment..." = "添加评论...";
+"Replying to" = "回复";
+"Delete Post" = "删除帖子";
+"View All" = "查看所有";
+"Comment" = "条评论";
+"Comments" = "条评论";
+"CommentsText" = "评论";
+"Open more replies" = "展开更多回复";
+"Open" = "展开";
+"ReplyText" = "回复";
+"Reply" = "条回复";
+"Replies" = "条回复";
+"reply" = "条回复";
+"replies" = "条回复";
+"like" = "喜欢";
+"likes" = "喜欢";
+"Likes" = "喜欢";
+"Delete this comment and its sub-comments?" = "是否删除此评论及其子评论？";
+"Delete selected comment?" = "您想要删除这条评论吗？";
+"hide" = "隐藏";
+"hidden" = "隐藏";
+"Do you want to hide this comment with all subcomments?" = "您想要隐藏此评论及其子评论吗？";
+"Are you sure?" = "您确定吗？";
+"Do you want to" = "您想要";
+"this comment?" = "这条评论吗？";
+"this reply?" = "这条回复吗？";
+"Upload timeout. Please try again. " = "上传超时。请重试。";
+"Report Inappropriate Content" = "举报不适的内容";
+"Report" = "举报";
+"Why are you reporting this post" = "举报的理由";
+"Thank you!" = "感谢您提交举报！";
+"OK" = "好的";
+"Your report has been submitted and someone from our team will look at it soon!" = "我们将审查您的举报，并将我们的决定通知您。";
+"Unfollow" = "取关";
+"This video has no sound" = "此视频没有声音";
+"Sign Out" = "退出";
+"Search hashtag" = "搜索标签";
+"Search account" = "搜索用户";
+"Top" = "热门";
+"Tags" = "标签";
+"Accounts" = "用户";
+"Suggested" = "推荐";
+"Hashtags" = "标签";
+"posts" = "帖子";
+"post" = "帖子";
+"followers" = "关注";
+"follower" = "关注";
+"Replying to Someone..." = "回复某人...";
+"liked your post" = "赞了您的帖子";
+"started following you" = "关注了您";
+"liked your comment:" = "赞了您的评论";
+"replied to you:" = "回复了您:";
+"commented on your post:" = "对您的帖子发表了评论:";
+"Your post has been featured" = "您的帖子被精选";
+"mentioned you in a comment" = "在评论中提到了您";
+"mentioned you in a post" = "在帖子中提到了您";
+"and" = "和";
+"other" = "其他人";
+"others" = "其他人";
+"Liked by" = "喜欢的有";
+"Customer Photos" = "客户帖子";
+"Pick a video less than" = "请选择一个视频小于";
+"seconds." = "秒。";
+"minutes." = "分钟。";
+"The video must be at least" = "请选择一个视频大于";
+"View Post" = "查看帖子";
+"Close" = "关闭";
+"ShowAll" = "全部展示";
+"The product has been tagged." = "产品标签已添加到帖子中。";
+"No more than 9 products can be tagged" = "最多可标记9个产品";
+"Saved to personal Collection" = "保存到个人收藏";
+"...  more" = "...  更多";
+"Hide Post" = "隐藏帖子";
+"Delete" = "删除";
+"No Results Found for" = "未找到关于";
+"Search" = "搜索";
+"Report User" = "举报用户";
+"Settings" = "设置";
+"Manage Blocked Accounts" = "管理屏蔽用户";
+"Privacy Policy" = "隐私政策";
+"Terms and Conditions" = "条款和协议";
+"Blocked Accounts" = "屏蔽用户";
+"hidePrompt" = "是否要隐藏此帖子?";
+"Please enter your reason" = "请输入原因";
+"Do you want to sign out?" = "您要退出登录吗?";
+"You have reported this post" = "您已举报此帖子";
+"Details" = "详情";
+"Detail" = "详情";
+"Report Submitted" = "举报已提交！";
+"Select Theme" = "选择主题";
+"For" = "对于";
+"ThemeDownloaded" = "此主题已下载到您的主题页面";
+"Go To Theme" = "跳转主题页";
+"just downloaded your theme" = "刚刚下载了你的主题";
+"Share Theme" = "分享主题";
+"Link copied to clipboard" = "链接已复制到剪贴板";
+"view" = "浏览";
+"views" = "浏览";
+"Official Staff" = "官方人员";
+"Message" = "消息";
+"Send Message" = "发送消息";
+"No chat information" = "暂无聊天信息";
+"Are you sure to delete?" = "确认删除？";
+"Stick on Top" = "置顶";
+"Cancel on Top" = "取消置顶";
+"Mark as Read" = "标为已读";
+"Mark as Unread" = "标记未读";
+"Typing..." = "输入中...";
+"Album" = "相册";
+"Camera" = "照相机";
+"Send a message..." = "发送消息...";
+"Read" = "已读";
+"Picture" = "图片";
+"Video" = "视频";
+"Someone @ me" = "有人@我";
+"You retract a message" = "您撤回一条消息";
+"The other party withdraws a message" = "对方撤回一条消息";
+"Copy" = "复制";
+"Withdraw" = "撤回";
+"Forward" = "转发";
+"Please select the link to open" = "请选择要打开的链接";
+"Get thumbnails..." = "获取缩略图...";
+"Download original..." = "下载原图...";
+"Failed to download original image" = "下载原图失败";
+"Failed to get original image" = "获取原图失败";
+"Downloading voice, click later" = "正在下载语音,稍后点击";
+"Download voice..." = "下载语音...";
+"Failed to download voice" = "下载语音失败";
+"Download video..." = "下载视频...";
+"Failed to download video" = "下载视频失败";
+"Downloading video, click later" = "正在下载视频,稍后点击";
+"Download thumbnails" = "下载缩略图";
+"Press and hold to talk" = "按住说话";
+"Release to send" = "松手发送";
+"Release to cancel" = "松手取消";
+"The picture is too big" = "图片太大了";
+"The video is too large" = "视频太大了";
+"Speaking time is too short" = "说话时间太短";
+"Relay message" = "转发消息";
+"Do you want to clear chat history?" = "您确认要清空聊天记录吗?";
+"Clear" = "清空";
+"Chat history cleared" = "聊天记录已清空";
+"Failed to clear chat record" = "清空聊天记录失败";
+"Failed to set no disturb" = "设置免打扰失败";
+"Search Chat History" = "查找聊天内容";
+"Browse Chat Media" = "浏览聊天媒体";
+"Mute Notification" = "消息免打扰";
+"Sticky on Top" = "置顶聊天";
+"Clear Chat History" = "清空聊天记录";
+"Media" = "媒体";
+"No" = "没有";
+"chat history found" = "相关的聊天记录";
+"Voice" = "音频";
+"No Result" = "没有找到";
+"Send" = "发送";
+"Retake" = "重拍";
+"Account Cancellation" = "用户注销";
+"Continue" = "继续";
+"DeleteAccountPrompt" = "是否确定要删除帐户和所有内容？";
+"Coversation has been blocked" = "聊天被屏蔽了";
+"Due to violation of community policies, you have been banned from this activity." = "由于违反社区政策，您已被禁止参加此活动。";
+"Save" = "保存";

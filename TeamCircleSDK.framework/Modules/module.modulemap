@@ -1,0 +1,11 @@
+framework module TeamCircleSDK {
+  umbrella header "TeamCircleSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module TeamCircleSDK.Swift {
+    header "TeamCircleSDK-Swift.h"
+    requires objc
+}
